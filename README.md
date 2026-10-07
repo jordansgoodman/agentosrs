@@ -5,6 +5,13 @@
 > [!NOTE]
 > Learn about our history and ethos on our forum: https://lostcity.rs/t/faq-what-is-lost-city/16
 
+> [!NOTE]
+> The original Lost City source and upstream projects are published by the
+> [LostCityRS GitHub organization](https://github.com/LostCityRS). This
+> repository contains local engine and MCP work built on that upstream code;
+> refer to the LostCityRS repositories for the original implementation and
+> project updates.
+
 This is a higher-level repository that links our other projects. You'll notice it's like home-rolled submodules (without commit references).  
 Github won't include submodules in web downloads, and we have a lot of users who end up clicking download zip.
 
