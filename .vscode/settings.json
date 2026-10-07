@@ -1,0 +1,14 @@
+{
+    "search.exclude": {
+        "**/.git": true,
+        "**/node_modules": true
+    },
+    "files.insertFinalNewline": true,
+    "editor.colorDecoratorsLimit": 65535,
+    "javascript.preferences.importModuleSpecifier": "non-relative",
+    "javascript.preferences.importModuleSpecifierEnding": "js",
+    "typescript.preferences.importModuleSpecifier": "non-relative",
+    "typescript.preferences.importModuleSpecifierEnding": "js",
+    "typescript.preferences.quoteStyle": "single",
+    "javascript.preferences.quoteStyle": "single"
+}

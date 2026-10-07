@@ -1,0 +1,10 @@
+{
+  "name": "@lostcityrs/server",
+  "private": true,
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@inquirer/prompts": "7.10.1"
+  }
+}
